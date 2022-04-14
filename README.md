@@ -3,4 +3,4 @@ small joke program showing async functions in javascript
 
 CHECK DEMO:
 
-joksterr.netlify.app
+https://joksterr.netlify.app/
